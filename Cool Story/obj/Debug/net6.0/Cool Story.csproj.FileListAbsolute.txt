@@ -1,0 +1,15 @@
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\bin\Debug\net6.0\Cool Story.exe
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\bin\Debug\net6.0\Cool Story.deps.json
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\bin\Debug\net6.0\Cool Story.runtimeconfig.json
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\bin\Debug\net6.0\Cool Story.dll
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\bin\Debug\net6.0\Cool Story.pdb
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\Cool Story.csproj.AssemblyReference.cache
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\Cool Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\Cool Story.AssemblyInfoInputs.cache
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\Cool Story.AssemblyInfo.cs
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\Cool Story.csproj.CoreCompileInputs.cache
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\Cool Story.dll
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\refint\Cool Story.dll
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\Cool Story.pdb
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\Cool Story.genruntimeconfig.cache
+C:\Users\oleg.fominov\Documents\GitHub\CoolStory\Cool Story\obj\Debug\net6.0\ref\Cool Story.dll
